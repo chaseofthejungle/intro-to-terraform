@@ -15,3 +15,5 @@
 | **terraform state** | Modifies Terraform states. Generally used for more advanced configurations only. Writes backup files. |
 | **terraform state list** | Displays all Terraform state file resources (request can be specified by address). |  
 | **terraform validate** | Checks whether configurations are syntactically valid and consistent within (does not consult remote services). |
+
+TODO: Add code and CLI screenshots.
