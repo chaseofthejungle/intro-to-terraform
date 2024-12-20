@@ -5,7 +5,7 @@
 **Some commands to know when navigating the command line interface...**
 
 | Commands | Usages |
-| ---- | ---- |
+| :----: | ---- |
 | `terraform apply` | Executes the actions/changes defined in a configuration plan. |
 | `terraform destroy` | Typically used to remove (destroy) temporary objects from a configuration. |
 | `terraform fmt` | Rewrites Terraform configuration files to meet HCL conventions. |  
