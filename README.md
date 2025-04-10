@@ -6,6 +6,7 @@
   
 1. [Terraform Commands](#cmds)
 2. [Command Demonstrations](#demos)
+3. [Supplemental Resource](#supplemental)
   
 <hr />
   
@@ -30,5 +31,13 @@
 | `terraform workspace list` | Retrieves list of every available workspace. |
   
 ## <a name="demos">2. Command Demonstrations</a>
+  
+<hr />
+
+## <a name="supplemental">3. Supplemental Resource</a>
+  
+* [Terraform Official Website](https://www.terraform.io/)
+  
+<hr />
   
 TODO: Add code and CLI screenshots.
