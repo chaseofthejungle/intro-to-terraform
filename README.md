@@ -6,7 +6,7 @@
   
 1. [Terraform Commands](#cmds)
 2. [Command Demonstrations](#demos)
-3. [Supplemental Resource](#supplemental)
+3. [Supplemental Resources](#supplemental)
   
 <hr />
   
@@ -34,10 +34,11 @@
   
 <hr />
 
-## <a name="supplemental">3. Supplemental Resource</a>
+## <a name="supplemental">3. Supplemental Resources</a>
   
-* [Terraform Official Website](https://www.terraform.io/)
-  
+* *[Terraform Official Website](https://www.terraform.io/)*
+* *[Official HCL Syntax Documentation Page](https://developer.hashicorp.com/terraform/language/syntax/configuration)*
+    
 <hr />
   
 TODO: Add code and CLI screenshots.
