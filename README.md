@@ -37,6 +37,7 @@
 ## <a name="supplemental">3. Supplemental Resources</a>
   
 * *[Terraform Official Website](https://www.terraform.io/)*
+* *[HashiCorp Configuration Language (HCL) Official Documentation](https://developer.hashicorp.com/terraform/language)*
 * *[Official HCL Syntax Documentation Page](https://developer.hashicorp.com/terraform/language/syntax/configuration)*
     
 <hr />
